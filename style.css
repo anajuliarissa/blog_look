@@ -1,5 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
 header{
-    background-color: rgb(235, 152, 187);
+    background-color: rgb(217, 158, 183);
     width: 100%;
 }
 
